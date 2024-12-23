@@ -1,12 +1,12 @@
 # CODTECH_T1
 # Password Strength Checker
 ## Information
-Name    : Devarsh Mehta
-Company : CODTECH IT SOLUTIONS PVT.LTD
-ID      : CT08DAL
-Domain  : Cyber Security & Ethical Hacking
-Duration: 20th Dec 2024 To 20th Jan 2025
-Mentor  : Muzammil Ahmed
+- Name    : Devarsh Mehta
+- Company : CODTECH IT SOLUTIONS PVT.LTD
+- ID      : CT08DAL
+- Domain  : Cyber Security & Ethical Hacking
+- Duration: 20th Dec 2024 To 20th Jan 2025
+- Mentor  : Muzammil Ahmed
 
 ## Overview
 

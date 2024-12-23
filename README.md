@@ -17,8 +17,8 @@ A Python-based tool to evaluate password strength using various criteria like le
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/hipremsoni/CODTECH_TASK1.git
-   cd CODTECH_TASK1
+   git clone https://github.com/DEVARSHMEHTA/CODTECH_T1.git
+   cd CODTECH_T1
    ```
 
 2. **Install Dependencies**:
@@ -28,7 +28,7 @@ A Python-based tool to evaluate password strength using various criteria like le
 
 3. **Run the Tool**:
    ```bash
-   python3 Task_1.py
+   python3 Pass.py
    ```
 
 ## Usage

@@ -2,7 +2,7 @@ import re
 import pyfiglet
 from termcolor import colored
 
-def create_banner(style="drpepper"):
+def create_banner(style="slant"):
     # Create the banner text
     banner_text = "Password Strength Checker"
     # Use pyfiglet to create the banner with the chosen style
@@ -13,7 +13,7 @@ def create_banner(style="drpepper"):
     print(colored("****By Devarsh Mehta****", "blue"))
 
 # Call the function to create the banner with the chosen style
-create_banner("drpepper")  # Example style: "drpepper"
+create_banner("slant")  # Example style: "slant"
 
 def check_password_strength(password):
     # Criteria for password strength

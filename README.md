@@ -1,6 +1,6 @@
 # CODTECH_T1
 # Password Strength Checker
-## Information
+## Details
 - Name    : Devarsh Mehta
 - Company : CODTECH IT SOLUTIONS PVT.LTD
 - ID      : CT08DAL

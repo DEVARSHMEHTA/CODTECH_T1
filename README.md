@@ -42,6 +42,8 @@ A Python-based tool to evaluate password strength using various criteria like le
 3. Type 'exit' to quit.
 
 ## Example Output
+(https://github.com/user-attachments/assets/0e48f6e7-3258-4d10-8497-0c6770709fbc)
+
 
 ### Strong Password Example
 ```plaintext

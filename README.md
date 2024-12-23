@@ -1,6 +1,10 @@
 # CODTECH_T1
 # Password Strength Checker
 
+## Author
+
+- **Devarsh Mehta**
+
 ## Overview
 
 A Python-based tool to evaluate password strength using various criteria like length, complexity, and the presence of special characters. It also checks against common default passwords and provides actionable feedback to enhance password security.
@@ -61,9 +65,7 @@ Feedback: Weak Password - Use a longer password with uppercase, lowercase, digit
 
 Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Author
 
-- **Devarsh Mehta**
 
 ## Acknowledgments
 

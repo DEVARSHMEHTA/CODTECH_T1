@@ -1,9 +1,12 @@
 # CODTECH_T1
 # Password Strength Checker
-
-## Author
-
-- **Devarsh Mehta**
+## Information
+Name    : Devarsh Mehta
+Company : CODTECH IT SOLUTIONS PVT.LTD
+ID      : CT08DAL
+Domain  : Cyber Security & Ethical Hacking
+Duration: 20th Dec 2024 To 20th Jan 2025
+Mentor  : Muzammil Ahmed
 
 ## Overview
 
@@ -63,6 +66,11 @@ This is a Default password. It is easily crackable. Use a high-security password
 Enter your password (or 'exit' to quit): pass
 Feedback: Weak Password - Use a longer password with uppercase, lowercase, digits, and special characters.
 ```
+
+## Author
+
+- **Devarsh Mehta**
+
 
 ## License
 

@@ -6,7 +6,7 @@
 - ID      : CT08DAL
 - Domain  : Cyber Security & Ethical Hacking
 - Duration: 20th Dec 2024 To 20th Jan 2025
-- Mentor  : Muzammil Ahmed
+- Mentor  : Neela Santosh Kumar
 
 ## Overview
 
